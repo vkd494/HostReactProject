@@ -1,0 +1,46 @@
+
+@layer priority1, priority2, priority3, priority4;
+@layer priority1{
+.x11maa8n{background:#f5f5f5}
+.xo6guvx{background:#fff}
+.x14gauit{border:1px solid #3e450f}
+.x150ed17{border:1px solid #ccc}
+.xfj9a5l{border:1px solid transparent}
+.xs0fqhl{padding:10px 16px}
+.x7z7khe{padding:10px}
+.x1tamke2{padding:16px}
+.xe8ttls{padding:8px}
+}
+@layer priority2{
+.x1cum3z5{border-radius:2px}
+.x12oqio5{border-radius:4px}
+}
+@layer priority3{
+.x1cy8zhl{align-items:flex-start}
+.xawkomn{background-color:#3e450f}
+.x83z2og{background-color:#fff}
+.x9f619{box-sizing:border-box}
+.x1525slw{color:#333}
+.x12wbl8j{color:#3e450f}
+.xfungia{color:#fff}
+.x78zum5{display:flex}
+.xdt5ytf{flex-direction:column}
+.x1q0g3np{flex-direction:row}
+.x1j61zf2{font-size:16px}
+.x1s688f{font-weight:600}
+.x13a6bvl{justify-content:flex-end}
+.x1qughib{justify-content:space-between}
+}
+@layer priority4{
+.x1dr59a3{height:100vh}
+.xyo1k6t{margin-right:10px}
+.x6ikm8r{overflow-x:hidden}
+.x1rife3k{overflow-y:scroll}
+.xn9wirt{width:100vw}
+.xrostsh{width:150px}
+.xq1dxzn{width:160px}
+.x1d6wnjt{width:20vw}
+.x1f1nlb9{width:25%}
+.xvr7zsw{width:50vw}
+.xg0jo4d{width:75%}
+}
